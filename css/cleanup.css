@@ -19,6 +19,6 @@ body #wall div:nth-child(5) {
   display: none;
 }
 
-body #wall div:nth-child(6) .parent:nth-child(3) div:last-child div#tag-6 {
+body #wall div:nth-child(6)  div:nth-child(3) #tag-6 {
   display:none;
 }
