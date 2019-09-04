@@ -18,3 +18,7 @@ body #wall #tag-4{
 body #wall div:nth-child(5) {
   display: none;
 }
+
+div#wall div:nth-child(6) div:last-child div#tag-6 {
+  display:none;
+}
