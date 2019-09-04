@@ -15,6 +15,6 @@ body #wall #tag-4{
   display: none;
 }
 
-body #wall:nthchild(5) .parent+#tag-5.slick {
+body #wall:nth-child(5) .parent+#tag-5.slick {
   display: none;
 }
