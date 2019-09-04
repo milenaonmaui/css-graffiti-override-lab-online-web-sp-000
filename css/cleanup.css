@@ -14,3 +14,7 @@ body #wall #tag-2 {
 body #wall #tag-4{
   display: none;
 }
+
+div#wall .parent #tag-5.slick {
+  display: none;
+}
